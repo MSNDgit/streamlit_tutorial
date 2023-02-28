@@ -31,6 +31,8 @@ if st.button("일기저장", key='message'):
 
 
 
+
+
 st.markdown("* * *")
 
 
